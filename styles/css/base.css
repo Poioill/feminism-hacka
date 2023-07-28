@@ -68,6 +68,10 @@ body {
 .header__burger{
 
 }
+.header__container{
+    width: 100%;
+    text-align: center;
+}
 .main{
     flex: 0 1 100%;
 }
@@ -92,9 +96,9 @@ body {
     text-align: center;
 }
 .header__title{
-    text-align: center;
+    color: rgba(41, 14, 69, 0.90);
     font-size: 32px;
-    padding: 0 0 30px 0;
     font-weight: 700;
+    margin: 40px auto;
 }
 /* ====FOOTER============================== */

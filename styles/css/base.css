@@ -81,7 +81,12 @@ body {
     font-weight: 400;
 }
 .header__wrapper{
-    background-color: #ffffff;    
+    background-color: #ffffff;   
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.10); 
 }
 .header__box{
     display: flex; 
@@ -99,6 +104,6 @@ body {
     color: rgba(41, 14, 69, 0.90);
     font-size: 32px;
     font-weight: 700;
-    margin: 40px auto;
+    margin: 130px auto 40px;
 }
 /* ====FOOTER============================== */

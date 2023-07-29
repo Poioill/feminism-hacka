@@ -1,0 +1,36 @@
+.main ._container{
+    padding: 0;    
+    word-wrap: break-word;
+}
+.info__card__block{
+    background-color: white;
+    padding: 35px 0;
+    box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.10);
+}
+.info-card__pic{
+    margin: 0 40px 20px 0;
+}
+.info-card__box{
+    width: 100%;
+    display: flex;
+}
+.text__data{
+    color: rgba(41, 14, 68, 0.40);
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.text__ph{
+    color: rgba(41, 14, 69, 0.70);
+    font-size: 20px;
+    line-height: 120%;
+}
+/* ---more------------- */
+.info__card__more{
+    margin: 80px auto 0;
+}
+.more__title{
+    color: #E86D8A;
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0 0 40px 0;
+}

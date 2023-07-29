@@ -1,9 +1,9 @@
 .main__container{
-    margin: 110px 0;
+    margin: 110px 0 50px;
 }
 .main__back{
     background-color: white;
-    margin: 110px 0;
+    margin: 110px 0 50px;
     padding: 50px 0;
 }
 .introduction__box{
@@ -258,6 +258,13 @@ hr{
     justify-content: space-between;
     align-items: center;
     gap: 35px;
+}
+.main__event:not(:last-child){
+    margin-bottom: 20px;    
+}
+.event__info-box{
+    padding-bottom: 30px;
+    border-bottom: 2px solid rgba(41, 14, 69, 0.5);    
 }
 .event__data h6{
     color: rgba(41, 14, 69, 0.80);

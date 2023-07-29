@@ -86,3 +86,7 @@
     border: none; 
     background-color: rgba(232, 109, 138, 0.90);
 } 
+.a-card__img img{
+    object-fit: cover;
+    max-width: 348px;
+}

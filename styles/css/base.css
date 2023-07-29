@@ -55,6 +55,12 @@ body {
     padding: 0 15px;
     box-sizing: content-box;
 }
+.__container{
+    max-width: 1350px;
+    margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: content-box;
+}
 ._ibg{
     position: relative;
 }

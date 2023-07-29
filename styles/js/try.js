@@ -9,4 +9,9 @@ $(document).ready(function(){
         appendArrows: $('.art-click'),
         infinite: true,
     })
+    $('.art__slider').slick({
+        slidesToShow: 1,
+        infinite: true,
+        arrows:true,
+    })
 });

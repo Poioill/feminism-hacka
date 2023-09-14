@@ -74,6 +74,10 @@
 .topic__item{
     position: relative;
 }
+.topic__item img{
+    width: 191px;
+    border-radius: 10px;
+}
 .abc{
     bottom: 0;
     left: 0;
